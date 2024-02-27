@@ -1,7 +1,7 @@
 # trip
 Application for Train ticket from London to France
 
-Requested functionalities, we need to design the following APIs:
+For the Requested functionalities, we need to design the following APIs:
 
 **Submit Ticket Purchase API:**
 
